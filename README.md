@@ -6,6 +6,13 @@
 https://docs.google.com/spreadsheets/d/1GcWuM74oip6dzSNeWi73qCjY9tDAX-BZaiiPBJ5gnZ4/edit?usp=sharing
 ```
 
+## 準備
+
+```
+npm install --save-dev hardhat
+```
+
+
 ## Local
 
 use env `.env.sample`
